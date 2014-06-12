@@ -26,19 +26,20 @@
    " The following are examples of different formats supported.
    " Keep Plugin commands between vundle#begin/end.
    " plugin on GitHub repo
-   " Plugin 'tpope/vim-fugitive'
-   " plugin from http://vim-scripts.org/vim/scripts.html
-   " Plugin 'L9'
    Plugin 'scrooloose/nerdtree'
    Plugin 'like310101/vim'
-   Plugin 'ack.vim'
-   Plugin 'bundler.vim'
    Plugin 'kien/ctrlp.vim'
    Plugin 'tpope/vim-rails'
    Plugin 'MarcWeber/vim-addon-mw-utils'
    Plugin 'tomtom/tlib_vim'
    Plugin 'garbas/vim-snipmate'
    Plugin 'honza/vim-snippets'
+   " plugin from http://vim-scripts.org/vim/scripts.html
+   Plugin 'ack.vim'
+   Plugin 'bundler.vim'
+   Plugin 'c.vim'
+   Plugin 'python.vim'
+   Plugin 'bash-support.vim'
    " Git plugin not hosted on GitHub
    " Plugin 'git://git.wincent.com/command-t.git'
    " git repos on your local machine (i.e. when working on your own plugin)
